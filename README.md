@@ -5,6 +5,7 @@
 - 📫 Contate-me no email: 
 - 😄 Pronouns: Ele/Dele
 - 📝 Fun Fact - Jhonatas "Hellw" Significa Hello Word! 
+- 📝 Dia histórico 10/11/2022 - primeiro commit de projeto
 
 <div>
   <a>
