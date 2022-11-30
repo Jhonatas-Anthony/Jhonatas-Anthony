@@ -1,7 +1,7 @@
 # Olá, eu me chamo Jhonatas Anthony 👋
 
 - 🧩 Cursando Sistemas para Internet
-- 🌱 Estou aprendendo REACT e Python MySQL
+- 🌱 Estou aprendendo REACT, Python e MySQL
 - 📫 Contate-me no email: 
 - 😄 Pronouns: Ele/Dele
 - 📝 Fun Fact - Jhonatas "Hellw" Significa Hello Word! 
@@ -10,7 +10,7 @@
 <div>
   <a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatasHellw&count_private=true&show_icons=true&theme=onedark" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatasHellw&layout=compact&theme=onedark"/>
+    #<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatasHellw&layout=compact&theme=onedark"/>
   </a>
 </div>
 <div>
