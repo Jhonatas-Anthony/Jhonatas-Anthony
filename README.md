@@ -1,8 +1,7 @@
 # Olá, eu me chamo Jhonatas Anthony 👋
 
 - 🧩 Cursando Sistemas para Internet
-- 🌱 Estou aprendendo REACT, Python e MySQL
-- 📫 Contate-me no email: 
+- 🌱 Estou aprendendo REACT, Python e MySQL 
 - 😄 Pronouns: Ele/Dele
 - 📝 Fun Fact - Jhonatas "Hellw" Significa Hello Word! 
 - 10/11/2022  - primeiro commit de projeto
