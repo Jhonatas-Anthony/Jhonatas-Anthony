@@ -8,12 +8,6 @@
 - 10/11/2022  - primeiro commit de projeto
 
 <div>
-  <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatasHellw&count_private=true&show_icons=true&theme=onedark" />
-    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatasHellw&layout=compact&theme=onedark"/>-->
-  </a>
-</div>
-<div>
   <h2>Tecnologias Conhecidas</h2>
   <img height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
