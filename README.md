@@ -1,7 +1,7 @@
 # Olá, eu me chamo Jhonatas Anthony 👋
 
 - 🧩 Cursando Sistemas para Internet
-- 🌱 Estou aprendendo REACT, Python e MySQL 
+- 🌱 Estou aprendendo Vue
 - 😄 Pronouns: Ele/Dele
 
 <div>
