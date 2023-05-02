@@ -3,7 +3,7 @@
 - 🧩 Cursando Sistemas para Internet
 - 🌱 Estou aprendendo Vue
 - 😄 Pronouns: Ele/Dele
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatas-Anthony&hide=TeX&layout=compact)
 <div>
   <h2>Tecnologias Conhecidas</h2>
   <img height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
