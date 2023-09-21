@@ -1,7 +1,5 @@
 # Olá, eu me chamo Jhonatas Anthony 👋
 
-Desenvolvedor web full stack.
-
 “O mais competente não discute, domina a sua ciência e cala-se.” (Voltaire)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatas-Anthony&hide=TeX&layout=compact)
