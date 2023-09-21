@@ -6,6 +6,8 @@ Desenvolvedor web full stack.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatas-Anthony&hide=TeX&layout=compact)
 
+![Jhonatas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhonatas-Anthony\&rank_icon=github)
+
 <div>
   <h2>Tecnologias Conhecidas</h2>
   <img height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
